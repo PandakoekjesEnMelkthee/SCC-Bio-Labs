@@ -74,7 +74,7 @@ h1 {
 }
 
 h3 {
-	font-family: "Leelawadee UI Semilight";
+	font-family: "Leelawadee UI Semilight", "Segoe UI Semilight";
 	font-weight: 100;
 
 }
@@ -88,7 +88,7 @@ h3 {
 
 h4, h2, h5 {
 	font-weight: 45;
-	font-family: "Leelawadee UI Semilight";
+	font-family: "Leelawadee UI Semilight", "Segoe UI Semilight";
 }
 
 .contact-list1::before {

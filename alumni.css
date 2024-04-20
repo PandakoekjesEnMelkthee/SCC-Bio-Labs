@@ -1,0 +1,154 @@
+#menubar {
+	background: rgb(79, 111, 82);
+	padding-bottom: 10%;
+} 
+
+html, body {
+  margin: 0;
+  padding: 0;
+}  
+
+#functions {
+	margin-left: 10%;
+}
+
+.button {
+	float: left;
+
+}
+
+#image {
+	margin-top: 0.2%;
+	margin-left: 1.5%;
+}
+
+
+#b1{
+	background: rgb(79, 111, 82);
+	margin-left: 5%;
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b1:hover, #b2:hover, #b3:hover, #b4:hover, #b5:hover {
+	background: rgb(115, 144, 114);
+}
+
+#b2 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+
+#b3 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b4 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b5 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+h1 {
+	font-weight: 100;
+}
+
+h3 {
+	font-family: "Leelawadee UI Semilight";
+	font-weight: 100;
+
+}
+
+#footer {	
+	margin-top: 7.5%;
+	padding-bottom: 2%;
+	/*background: rgb(65, 97, 68);*/
+	background: rgb(125,98,71);
+}
+
+h4, h2, h5 {
+	font-weight: 45;
+	font-family: "Leelawadee UI Semilight";
+}
+
+.contact-list1::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\e56e";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.contact-list2::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f095";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.contact-list3::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\40";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.coolcuh:hover {
+	cursor: pointer;
+	color: rgb(55,55,55);
+	transition: 0.3s;
+	
+}
+
+#universiteit {
+	margin-top: 1.5%;
+	margin-left: 2%;
+	cursor: pointer;
+}
+
+#logo {
+	 margin-right: 20%;
+	margin-top: 3%;
+}
+
+.news {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#news-articles {
+	margin-top: 5%;
+	margin-left: 15%;
+	margin-right: 1%;
+}
+
+.titlep:hover {
+	cursor: pointer;
+	color: rgb(79, 111, 82);
+	transition: 0.3s;
+}

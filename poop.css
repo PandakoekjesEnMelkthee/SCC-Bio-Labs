@@ -1,0 +1,241 @@
+#menubar {
+	background: rgb(79, 111, 82);
+	padding-bottom: 10%;
+} 
+
+html, body {
+  margin: 0;
+  padding: 0;
+}  
+
+#functions {
+	margin-left: 10%;
+}
+
+.button {
+	float: left;
+
+}
+
+#image {
+	margin-top: 0.2%;
+	margin-left: 1.5%;
+}
+
+
+#b1{
+	background: rgb(79, 111, 82);
+	margin-left: 5%;
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b1:hover, #b2:hover, #b3:hover, #b4:hover, #b5:hover {
+	background: rgb(115, 144, 114);
+}
+
+#b2 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+
+#b3 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b4 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+#b5 {
+	background: rgb(79, 111, 82);
+	padding: 2.65% 4%;
+	transition: 0.3s;
+	cursor: pointer;
+	
+}
+
+
+.bitch {
+	width: 100%;
+	
+}
+
+.wrapper {
+	position: relative;
+}
+
+.image-text {
+
+	
+}
+
+.text1 {
+	position: absolute;
+	top: 30%;
+	font-size: 6em;
+	color: white;
+	padding-left: 3%;
+}
+
+.text2 {	
+	position: absolute;
+	top: 52%;
+	font-size: 2.5em;
+	color: white;
+	padding-left: 3.3%;
+}
+
+.gradient {
+	position: absolute;
+	top: 0%;
+	background-image: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0));
+	padding: 24.17% 40%;
+}
+
+#functional-menu {
+	display: flex;
+	overflow: hidden;
+	padding-bottom: 2%;
+	padding-left: 12.5%;
+	padding-right: 10%;
+	/*border: 1px solid green;*/
+	
+}
+
+h1 {
+	font-weight: 100;
+}
+
+h3 {
+	font-family: "Leelawadee UI Semilight";
+	font-weight: 100;
+
+}
+
+
+#shit {
+	
+	/*border: 1px solid red;*/
+	padding-right: 7%;
+	
+}
+
+.shit2 {
+	/*background: blue;*/
+	overflow: hidden;
+	text-align: center;
+	height: 20%;	
+	margin: auto;
+	padding-right: 22em;
+	
+
+}
+
+#shit4 {
+	/*background: blue;*/
+
+	
+}
+
+.shit3 {
+	text-align: center;
+}
+
+#articles {
+	display: flex;	
+}
+
+#article-text {
+	background: rgb(134, 167, 137);
+	padding-left: 1em;
+	margin-bottom: 0.25em;
+}
+
+#article1 {
+	padding-right: 16em;
+	padding-top: 4.2em;
+}
+
+#poop {
+
+	margin-right: 1em;
+	padding-bottom: 9em;
+}
+
+#footer {	
+	margin-top: 7.5%;
+	padding-bottom: 2%;
+	/*background: rgb(65, 97, 68);*/
+	background: rgb(125,98,71);
+}
+
+h4, h2, h5 {
+	font-weight: 45;
+	font-family: "Leelawadee UI Semilight";
+}
+
+.contact-list1::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\e56e";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.contact-list2::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\f095";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.contact-list3::before {
+	font-family: "Font Awesome 5 Free";
+	content: "\40";
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
+	font-weight: 900;
+}
+
+.coolcuh:hover {
+	cursor: pointer;
+	color: rgb(55,55,55);
+	transition: 0.3s;
+	
+}
+
+#universiteit {
+	margin-top: 1.5%;
+	margin-left: 2%;
+	cursor: pointer;
+}
+
+#logo {
+	 margin-right: 20%;
+	margin-top: 3%;
+}
+
+.titlep:hover {
+	cursor: pointer;
+	color: rgb(79, 111, 82);
+	transition: 0.3s;
+}
